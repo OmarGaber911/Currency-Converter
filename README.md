@@ -63,16 +63,16 @@ Replace base, target, and amount with your desired values.
 - amount: Amount to convert (e.g., 100)
 ## Make sure currencies in this way
 
-USD: United States Dollar
-EUR: Euro
-GBP: British Pound
-JPY: Japanese Yen
-AUD: Australian Dollar
-CAD: Canadian Dollar
-CHF: Swiss Franc
-CNY: Chinese Yuan
-INR: Indian Rupee
-EGP: Egyptian Pound
+-USD: United States Dollar
+-EUR: Euro
+-GBP: British Pound
+-JPY: Japanese Yen
+-AUD: Australian Dollar
+-CAD: Canadian Dollar
+-CHF: Swiss Franc
+-CNY: Chinese Yuan
+-INR: Indian Rupee
+-EGP: Egyptian Pound
 
 
 
